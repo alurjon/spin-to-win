@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Spin to Win!</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      padding: 50px;
+    }
+    iframe {
+      border: none;
+      width: 100%;
+      height: 500px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Spin to Win a Prize!</h1>
+  <iframe src="https://wheelofnames.com/jxj-dtc"></iframe>
+  <p>Scan the QR code on your brusher to play again!</p>
+</body>
+</html>
